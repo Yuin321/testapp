@@ -11,7 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <Welcome name="Yuin">
-            <h1>Wollongong</h1>
+            <h1>West Wollongong</h1>
           </Welcome>
         </p>
         <Ask/>
